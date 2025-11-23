@@ -1,0 +1,9 @@
+# Case Study: Sarah's Recovery Journey
+
+## Initial Steps in Seeking Treatment
+
+Sarah, a 30-year-old woman struggling with alcohol addiction, took the courageous first step of seeking help by contacting a local substance abuse treatment center. Her initial contact was with a compassionate intake coordinator who conducted a brief, confidential screening to determine the urgency of her situation and the appropriateness of their services. Recognizing the severity of Sarah's alcohol use disorder, the coordinator scheduled a comprehensive assessment for the following day.
+
+The comprehensive assessment was conducted by a licensed chemical dependency counselor (LCDC). This process, guided by the principles of SAMHSA's Treatment Improvement Protocol (TIP) 42, involved a biopsychosocial approach to gather information about Sarah's substance use history, mental and physical health, family and social relationships, and legal and employment status. The counselor utilized standardized assessment tools to ensure a thorough and accurate evaluation of Sarah's needs.
+
+Following the assessment, the LCDC, in collaboration with Sarah, developed an individualized treatment plan. This person-centered approach, as outlined in the Texas Administrative Code, ensured that Sarah's unique circumstances, strengths, and goals were at the forefront of her recovery plan. The counselor's role was to guide and support Sarah in identifying her own goals and to work with her to establish measurable objectives. The initial treatment plan included a referral to a medically supervised detoxification program to safely manage her withdrawal symptoms, followed by a transition to a residential treatment program.
